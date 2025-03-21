@@ -1,0 +1,14 @@
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\bin\Debug\net8.0\TetrisExam.exe
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\bin\Debug\net8.0\TetrisExam.deps.json
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\bin\Debug\net8.0\TetrisExam.runtimeconfig.json
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\bin\Debug\net8.0\TetrisExam.dll
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\bin\Debug\net8.0\TetrisExam.pdb
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.AssemblyInfoInputs.cache
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.AssemblyInfo.cs
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.dll
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\refint\TetrisExam.dll
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.pdb
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\TetrisExam.genruntimeconfig.cache
+C:\Users\ryan\source\repos\TetrisExam\TetrisExam\obj\Debug\net8.0\ref\TetrisExam.dll
